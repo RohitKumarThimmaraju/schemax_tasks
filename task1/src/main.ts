@@ -22,6 +22,6 @@ async function bootstrap() {
   app.enableCors();
 
   // BACKEND PORT DECLARATION 
-  await app.listen(8000);
+  await app.listen(8001);
 }
 bootstrap();
